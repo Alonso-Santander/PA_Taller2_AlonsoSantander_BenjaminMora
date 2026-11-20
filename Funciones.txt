@@ -1,0 +1,18 @@
+101,StarWars 3: La venganza de los Sith,125,4000,tarde,Ciencia Ficción,si
+102,Interestelar,169,8500,noche,Ciencia Ficción,si
+103,Intensamente,95,6500,mañana,Animación,si
+104,El viaje de Chihiro,125,7000,tarde,Animación,si
+105,Una noche en el museo,108,5500,noche,Comedia,no
+106,El gran hotel Budapest,99,8000,tarde,Comedia,si
+201,El mago de Oz,100,5500,noche,Diego Cortés,3
+202,Romeo y Julieta,120,18000,noche,William Shakespeare,5
+203,La casa de Bernarda Alba,100,15000,tarde,Federico García Lorca,3
+204,La vida es sueño,110,16000,mañana,Pedro Calderón de la Barca,3
+205,Esperando a Godot,115,12000,noche,Samuel Beckett,2
+206,La pérgola de las flores,105,14000,tarde,Isidora Aguirre,2
+301,Gatos del Mundo,45,3000,mañana,Animales,2020
+302,Planeta Océano,90,6000,tarde,Naturaleza,2015
+303,El Universo,80,5000,noche,Astronomía,2018
+304,Historia del Cine,75,4500,mañana,Cine,2010
+305,Desierto de Atacama,60,6500,tarde,Geografía,2022
+306,La vida de los arrecifes,85,7000,noche,Vida marina,2017
